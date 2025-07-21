@@ -81,8 +81,8 @@
 
 ## 🪴 Практика и стажировка
 [<img src="/Internship.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/MariyaLipilinaQA/MariyaLipilinaQA/refs/heads/main/Internship%20(1).png)
-(https://github.com/MariyaLipilinaQA/MariyaLipilinaQA/blob/main/marija_lipilina-autopilot-en.png)
 [<img src="Internship.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки">](https://raw.githubusercontent.com/MariyaLipilinaQA/MariyaLipilinaQA/refs/heads/main/Internship%20(2).png)
+
 <br>
 
 ## 🎒 Образование
