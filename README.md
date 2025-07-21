@@ -80,8 +80,8 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/Internship(1).png" width="280px" hspace="10px" alt="Серитификатоб окнчании стажировки»">](https://raw.githubusercontent.com/MariyaLipilinaQA/MariyaLipilinaQA/refs/heads/main/Internship%20(1).png)
-[<img src="Internship(2).png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки">](https://raw.githubusercontent.com/MariyaLipilinaQA/MariyaLipilinaQA/refs/heads/main/Internship%20(2).png)
+[<img src="/Internship.png" width="280px" hspace="10px" alt="Серитификатоб окнчании стажировки»">](https://raw.githubusercontent.com/MariyaLipilinaQA/MariyaLipilinaQA/refs/heads/main/Internship.png)
+[<img src="Internship2.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки">](https://raw.githubusercontent.com/MariyaLipilinaQA/MariyaLipilinaQA/refs/heads/main/Internship2.png)
 <br>
 
 ## 🎒 Образование
